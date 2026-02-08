@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/aymanabdirizak" target="blank"><img src="https://img.shields.io/twitter/follow/aymanabdirizak?logo=twitter&style=for-the-badge" alt="aymanabdirizak" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 Passionate programmer who loves building scalable web applications and learning new technologies.
 
 - 💬 Ask me about **Mearn, Full Stack**
 
